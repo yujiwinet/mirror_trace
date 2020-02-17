@@ -18,10 +18,10 @@
 var materials = {
 		'mirror' : [true, true, true, true, true, true, true, true],
 		'file_names' : ["https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/sample.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/trialh1.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/trialh2.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/trialh3.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/trial2.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/trial3.png", "https://raw.githubusercontent.com/rcalinjageman/mirror_trace/master/sample.png"],
-		'xstarts' : [47,	27,		40,		280,		27, 40, 280, 250],
-		'ystarts' : [256,	275,	45,		276,		275, 45, 276, 33],
-		'xends' :   [344,	370,	368,	33,			370, 368, 33, 256],
-		'yends' :    [260,	28,		267,	250,		28,267,250, 47]
+		'xstarts' : [47,	27,		40,		280,		27, 40, 280, 367],
+		'ystarts' : [256,	275,	45,		276,		275, 45, 276, 50],
+		'xends' :   [344,	370,	368,	33,			370, 368, 33, 353],
+		'yends' :    [260,	28,		267,	250,		28,267,250, 44]
 	}
 	
 	//	'xstarts' : [47,	27,		40,		280,		40,		383,	352],
